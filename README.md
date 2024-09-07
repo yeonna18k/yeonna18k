@@ -1,4 +1,8 @@
-### Hi there 👋
+
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/{yeonna18k}?pet-id=1" width="800" height="240"/>
+</a>
 
 <!--
 **yeonna18k/yeonna18k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
