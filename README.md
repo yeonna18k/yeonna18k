@@ -1,6 +1,10 @@
 
-  <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{yeonna18k}?pet-id=1" width="100%" height="240"/>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=yeonna18k&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/yeonna18k"
+  width="100%"
+  height="300"
+/>
 </a>
 
 
